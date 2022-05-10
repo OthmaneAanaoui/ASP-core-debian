@@ -24,3 +24,4 @@
 /home/debian/projects/csharp/app/obj/Debug/net6.0/app.pdb
 /home/debian/projects/csharp/app/obj/Debug/net6.0/app.genruntimeconfig.cache
 /home/debian/projects/csharp/app/obj/Debug/net6.0/ref/app.dll
+C:\Users\oaanaoui\Desktop\DebianProjectAsp\ASP-core-debian\csharp\app\obj\Debug\net6.0\app.pdb

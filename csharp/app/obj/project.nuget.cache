@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecjhpJca5NQiDfQizjPZS9m7llSpqJgsWBsPn0rezRyfwdqhBsuAZFO072OUj2O2POr8r76eHWGkhAPCFJDEdw==",
+  "dgSpecHash": "nZIW7ZvrxTWJbTkRJcAMl0P15hXBM++ICaLRYpt8B8SyifCPwBs4NGZlPR2oqHXDunqwhUiFfVcBMXY4AKxDWw==",
   "success": true,
-  "projectFilePath": "/home/debian/projects/csharp/app/app.csproj",
+  "projectFilePath": "C:\\Users\\oaanaoui\\Desktop\\DebianProjectAsp\\ASP-core-debian\\csharp\\app\\app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
