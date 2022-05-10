@@ -1,0 +1,7 @@
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/app
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/appsettings.Development.json
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/appsettings.json
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/app.dll
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/app.deps.json
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/app.runtimeconfig.json
+/home/debian/projects/csharp/app/bin/Release/net6.0/publish/app.pdb
